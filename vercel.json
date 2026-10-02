@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/.netlify/functions/ai", "destination": "/api/ai" }
-  ],
-  "functions": {
-    "api/ai.js": { "maxDuration": 30 }
-  }
-}
